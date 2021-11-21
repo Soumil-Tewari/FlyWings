@@ -72,22 +72,22 @@
       <dsig:DigestValue>5wKfXe9lHW33ony/qk2RCJVjGWToTrILZV0k0JBMvSE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FlyWings.dll" size="147456">
+  <file name="FlyWings.dll" size="146432">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YK7xjtw8a4Bm7OoiuhCshBo5zONNFY4sKKY7ThbkZy4=</dsig:DigestValue>
+      <dsig:DigestValue>R3JHWbAE86X0u3l4JD+vmlDRES8mgvBg7LIfuE+WUAM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FlyWings.exe" size="217600">
+  <file name="FlyWings.exe" size="216576">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>OT9hNAIC3aoZ1wWcTb9MGCt8Dl+C826DVKsUfPSRHLY=</dsig:DigestValue>
+      <dsig:DigestValue>ejB2wxmCgBfw08zZUgctMf/Gvc8fbcKUQ3996xxOGWM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlyWings.runtimeconfig.json" size="372">
