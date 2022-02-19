@@ -9,12 +9,12 @@
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\WpfApp1_1_0_0_0\WpfApp1.dll.manifest" size="5946">
       <assemblyIdentity name="WpfApp1.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
-      <hash>
+     <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jqjhOY0BC3ug9UuEc/rrq4JD2Sj4j5nM1wNFaasGA2g=</dsig:DigestValue>
+        <dsig:DigestValue>/b1D/JdtNkzz2tXXnfoJ0WXbb3iwbICPxaoVv3f1TOo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
